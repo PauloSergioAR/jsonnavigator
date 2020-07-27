@@ -1,0 +1,17 @@
+{
+	"obj1": {
+		"obj2": {
+			"obj3": [
+				{
+					"index": "zero"
+				},
+				{
+					"index": "um"
+				},
+				{
+					"index": "dois"
+				}
+			]
+		}
+	}
+}
